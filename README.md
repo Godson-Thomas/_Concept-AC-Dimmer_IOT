@@ -1,7 +1,11 @@
 
+* A Concept Developed For ***RoboSlog Company***
 
+<br>
+<img src="https://github.com/Godson-Thomas/Water_Controller_System/blob/master/Images/RoboSlog_Company.jpg" width="200">
+<br>
 
-## AC Dimmer : CONCEPT
+## AC Dimmer
 
 
 # Circuit :

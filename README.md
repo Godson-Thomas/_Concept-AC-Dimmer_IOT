@@ -10,5 +10,5 @@
 
 # Circuit :
 
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B.png" width="400"> 
+<img src="https://github.com/Godson-Thomas/_Concept-AC-Dimmer_IOT/blob/master/Intergration_Dimmer_Code%2BLocal_Server/AC_Dimmer_IOT_image.jpg" width="400"> 
 

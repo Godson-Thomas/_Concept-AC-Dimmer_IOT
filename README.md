@@ -10,5 +10,5 @@
 
 # Circuit :
 
-<img src="https://github.com/Godson-Thomas/_Concept-AC-Dimmer_IOT/blob/master/Intergration_Dimmer_Code%2BLocal_Server/AC_Dimmer_IOT_image.jpg" width="600"> 
+<img src="https://github.com/Godson-Thomas/_Concept-AC-Dimmer_IOT/blob/master/Intergration_Dimmer_Code%2BLocal_Server/AC_Dimmer_IOT_image.jpg" width="650"> 
 
